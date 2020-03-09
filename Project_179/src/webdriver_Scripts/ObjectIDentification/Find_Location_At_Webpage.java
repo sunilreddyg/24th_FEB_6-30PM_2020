@@ -1,4 +1,4 @@
-package webdriver_Scripts;
+package webdriver_Scripts.ObjectIDentification;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
