@@ -11,7 +11,7 @@ public class Auto_Complete_Editbox
 	public static void main(String[] args) throws Exception 
 	{
 		
-		
+		//Browser initiation
 		System.setProperty("webdriver.chrome.driver", "Drivers\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("http://cleartrip.com");
